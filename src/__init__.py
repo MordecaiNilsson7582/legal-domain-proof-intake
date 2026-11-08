@@ -1,0 +1,1 @@
+"""Legal intake example package."""
